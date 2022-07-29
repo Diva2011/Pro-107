@@ -1,0 +1,56 @@
+body{
+    font-family:'Azeret Mono', monospace;
+    font-family:'Lato', sans-serif;
+    font-family:'Zen Kurenaido', sans-serif;
+    background-color: white;
+    color: black;
+    font-style: italic;
+}
+
+.div1 p{
+    color: white;
+    letter-spacing: 4;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.div1{
+font-size: 40px;
+font-weight: bold;
+background-color: black;
+color: red;
+}
+.div2 button{
+    width: 130px;
+    letter-spacing: 3;
+    font-size: 25px;
+    margin-top: 20px;
+    background-color: fuchsia;
+    color: black;    
+    font-weight: bold;
+}
+.div2{
+    color: hotpink;
+    font-weight: bold;
+    font-size: 30px;
+    
+    
+
+}
+img{
+    border: 3px dotted black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border: 1px solid grey;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px red;
+    font-weight: bold;
+    background-color: black;
+    color:white;
+    line-height: 3;
+}
